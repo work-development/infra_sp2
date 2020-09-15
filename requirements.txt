@@ -36,6 +36,7 @@ django-extensions
 django-cors-headers
 django-filter
 numpy
+environ
 
 asgiref==3.2.10
 Django==3.0.8
